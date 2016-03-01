@@ -1,0 +1,14 @@
+.tern-project
+*.class
+build
+target
+.classpath
+.project
+.settings
+.metadata
+.DS_Store
+.idea/
+.idea/*
+myindaia-erp.iml
+/bin/
+
